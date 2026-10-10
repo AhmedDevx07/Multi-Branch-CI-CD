@@ -184,11 +184,16 @@ jobs:
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
 ```
 
----
+   
+ ## 👨‍💻 Author
 
-## 👨‍💻 Author
+**Muhammad Ahmed (AhmedDevx07)**  
+ 
+### 🌐 Connect With Me
 
-**Muhammad Ahmed** — [@AhmedDevx07](https://github.com/AhmedDevx07)
+* 🐙 GitHub: https://github.com/AhmedDevx07  
+* 💼 LinkedIn: https://linkedin.com/in/ahmeddevx07  
+* 🌐 Portfolio: https://ahmeddevx07.vercel.app/
 
 ---
 
